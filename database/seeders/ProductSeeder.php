@@ -16,7 +16,7 @@ class ProductSeeder extends Seeder
                 'price' => 129.99,
                 'stock' => 50,
                 'category' => 'footwear',
-                'image' => 'products/running-shoes.jpg',
+                'image' => 'running-shoes.jpg',
             ],
             [
                 'name' => 'Adidas Predator Elite',
@@ -24,7 +24,7 @@ class ProductSeeder extends Seeder
                 'price' => 249.99,
                 'stock' => 30,
                 'category' => 'footwear',
-                'image' => 'products/football-boots.jpg',
+                'image' => 'football-boots.jpg',
             ],
             [
                 'name' => 'Wilson Pro Tennis Racket',
@@ -32,7 +32,7 @@ class ProductSeeder extends Seeder
                 'price' => 199.99,
                 'stock' => 25,
                 'category' => 'equipments',
-                'image' => 'products/tennis-racket.jpg',
+                'image' => 'tennis-racket.jpg',
             ],
             [
                 'name' => 'NBA Official Basketball',
@@ -40,7 +40,7 @@ class ProductSeeder extends Seeder
                 'price' => 49.99,
                 'stock' => 100,
                 'category' => 'equipments',
-                'image' => 'products/basketball.jpg',
+                'image' => 'basketball.jpg',
             ],
             [
                 'name' => 'Under Armour Compression Shirt',
@@ -48,7 +48,7 @@ class ProductSeeder extends Seeder
                 'price' => 39.99,
                 'stock' => 0,
                 'category' => 'clothes',
-                'image' => 'products/compression-shirt.jpg',
+                'image' => 'compression-shirt.jpg',
             ],
             [
                 'name' => 'Champion Athletic Shorts',
@@ -56,7 +56,7 @@ class ProductSeeder extends Seeder
                 'price' => 29.99,
                 'stock' => 80,
                 'category' => 'clothes',
-                'image' => 'products/athletic-shorts.jpg',
+                'image' => 'athletic-shorts.jpg',
             ],
             [
                 'name' => 'TRX Suspension Training Kit',
@@ -64,7 +64,7 @@ class ProductSeeder extends Seeder
                 'price' => 179.99,
                 'stock' => 40,
                 'category' => 'equipments',
-                'image' => 'products/trx-kit.jpg',
+                'image' => 'trx-kit.jpg',
             ],
             [
                 'name' => 'Bowflex Adjustable Dumbbells',
@@ -72,7 +72,7 @@ class ProductSeeder extends Seeder
                 'price' => 239.99,
                 'stock' => 0,
                 'category' => 'equipments',
-                'image' => 'products/dumbbells.jpg',
+                'image' => 'dumbbells.jpg',
             ],
             [
                 'name' => 'Yoga Mat Pro Series',
@@ -80,7 +80,7 @@ class ProductSeeder extends Seeder
                 'price' => 59.99,
                 'stock' => 60,
                 'category' => 'equipments',
-                'image' => 'products/yoga-mat.jpg',
+                'image' => 'yoga-mat.jpg',
             ],
             [
                 'name' => 'Garmin Forerunner 255',
@@ -88,7 +88,7 @@ class ProductSeeder extends Seeder
                 'price' => 349.99,
                 'stock' => 35,
                 'category' => 'accessories',
-                'image' => 'products/smartwatch.jpg',
+                'image' => 'smartwatch.jpg',
             ],
             [
                 'name' => 'Hydro Flask Bottle 32oz',
@@ -96,7 +96,7 @@ class ProductSeeder extends Seeder
                 'price' => 44.99,
                 'stock' => 90,
                 'category' => 'accessories',
-                'image' => 'products/bottle.jpg',
+                'image' => 'bottle.jpg',
             ],
             [
                 'name' => 'Callaway Golf Club Set',
@@ -104,7 +104,7 @@ class ProductSeeder extends Seeder
                 'price' => 499.99,
                 'stock' => 15,
                 'category' => 'equipments',
-                'image' => 'products/golf-clubs.jpg',
+                'image' => 'golf-clubs.jpg',
             ],
             [
                 'name' => 'Puma Training Backpack',
@@ -112,7 +112,7 @@ class ProductSeeder extends Seeder
                 'price' => 69.99,
                 'stock' => 55,
                 'category' => 'accessories',
-                'image' => 'products/backpack.jpg',
+                'image' => 'backpack.jpg',
             ],
             [
                 'name' => 'Fitbit Charge',
@@ -120,7 +120,7 @@ class ProductSeeder extends Seeder
                 'price' => 149.99,
                 'stock' => 45,
                 'category' => 'accessories',
-                'image' => 'products/fitness-tracker.jpg',
+                'image' => 'fitness-tracker.jpg',
             ],
             [
                 'name' => 'Reebok CrossFit Training Footwear',
@@ -128,7 +128,7 @@ class ProductSeeder extends Seeder
                 'price' => 119.99,
                 'stock' => 40,
                 'category' => 'footwear',
-                'image' => 'products/training-shoes.jpg',
+                'image' => 'training-shoes.jpg',
             ],
             [
                 'name' => 'Everlast Boxing Gloves',
@@ -136,7 +136,7 @@ class ProductSeeder extends Seeder
                 'price' => 89.99,
                 'stock' => 50,
                 'category' => 'equipments',
-                'image' => 'products/boxing-gloves.jpg',
+                'image' => 'boxing-gloves.jpg',
             ],
             [
                 'name' => 'Arena Swim Goggles',
@@ -144,7 +144,7 @@ class ProductSeeder extends Seeder
                 'price' => 34.99,
                 'stock' => 70,
                 'category' => 'accessories',
-                'image' => 'products/swim-goggles.jpg',
+                'image' => 'swim-goggles.jpg',
             ],
             [
                 'name' => 'Nike Dri-FIT Training Jacket',
@@ -152,7 +152,7 @@ class ProductSeeder extends Seeder
                 'price' => 79.99,
                 'stock' => 65,
                 'category' => 'clothes',
-                'image' => 'products/training-jacket.jpg',
+                'image' => 'training-jacket.jpg',
             ],
             [
                 'name' => 'Resistance Bands Set',
@@ -160,7 +160,7 @@ class ProductSeeder extends Seeder
                 'price' => 24.99,
                 'stock' => 100,
                 'category' => 'equipments',
-                'image' => 'products/resistance-bands.jpg',
+                'image' => 'resistance-bands.jpg',
             ],
             [
                 'name' => 'Oakley Sport Sunglasses',
@@ -168,7 +168,7 @@ class ProductSeeder extends Seeder
                 'price' => 159.99,
                 'stock' => 30,
                 'category' => 'accessories',
-                'image' => 'products/sunglasses.jpg',
+                'image' => 'sunglasses.jpg',
             ],
         ];
 
