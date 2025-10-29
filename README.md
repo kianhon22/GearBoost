@@ -1,4 +1,4 @@
-# GearBoost - Premium Sports Products eCommerce Platform
+# GearBoost
 
 A modern, full-stack eCommerce web application built with Laravel and Vue.js, specializing in premium sports equipment and gear. Features include product browsing, shopping cart management, order processing, and user authentication with a clean and responsive interface.
 
